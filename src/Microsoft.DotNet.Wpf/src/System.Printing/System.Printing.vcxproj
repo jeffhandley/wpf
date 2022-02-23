@@ -122,6 +122,7 @@
     <CLCompile Include="CPP\src\PrintJobSettings.cpp" />
     <CLCompile Include="CPP\src\PrintDocumentImageableArea.cpp" />
     <CLCompile Include="CPP\src\InteropAttributeValueDictionary.cpp" />
+    <ClCompile Include="TestStaticAbstracts.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="$(WpfSourceDir)System.Xaml\System.Xaml.csproj">
